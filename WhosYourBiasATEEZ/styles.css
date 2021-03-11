@@ -1,0 +1,44 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 7em;
+  color: #FFFFFF;
+  margin: 0 auto;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: 3em;
+  color: #FFFFFF;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+/* Divs */
+.blueRed {
+  display: inline;
+  padding: 200px;
+}
+
+/* Images */
+.ab-img {
+  width: 10%;
+  height: 10%;
+  border-radius: 10px;
+  /* display: inline; */
+  margin: 10px auto 0;
+
+}
+.ar-img {
+  width: 10%;
+  height: 10%;
+  border-radius: 10px;
+}
+/* .whole {
+  display: inline-block;
+} */
